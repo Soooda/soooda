@@ -11,7 +11,7 @@ on:
 jobs:
   build:
     name: Update-steam-playtime
-    runs-on: ubuntu-latest
+    runs-on: Ubuntu-20.04
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
       GIST_ID: 58342eb205bcd66ddd75f6e49340d604
