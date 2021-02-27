@@ -11,7 +11,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/58342eb205bcd66ddd75f6e49340d604" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 6548 hrs 47 mins
+🔫 Counter-Strike: Global Offensive 🕘 6549 hrs 18 mins
 🎮 Monster Hunter: World            🕘 900 hrs 33 mins
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 270 hrs 47 mins
 🎮 Unturned                         🕘 101 hrs 9 mins
