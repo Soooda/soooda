@@ -13,7 +13,8 @@
     <summary>Secrets</summary>
     <br>
 </details>
----
+
+<hr>
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soooda&layout=compact&title_color=AAAB6&bg_color=0,251F2B,504F65,453546,504F65,251F2B&text_color=A3D2CA"/>
