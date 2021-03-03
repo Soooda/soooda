@@ -1,7 +1,6 @@
 # o(>.<)o Greetings! 👋
 
-### Intro
-**I am :**
+### I am :
 * 📜 A **computer science student** who is doing Bachelor of Advanced Computing in [The University of Sydney](https://www.sydney.edu.au/).
 * ⌨️ A **geek** who wanna [suck less](https://suckless.org/) in computing.
 * 🎮 A **gamer** who was semi-pro in [CSGO](https://www.faceit.com/en/players/Sooodaa) and have played tons of games ranging from PS, Nintendo Consoles to Windows PC and look forward to making my own games in the future.
@@ -11,7 +10,8 @@
 
 **I am just who I am, nothing more, nothing less......**
 
-### Stats
+---
+
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soooda&layout=compact&title_color=AAAB6&bg_color=0,251F2B,504F65,453546,504F65,251F2B&text_color=A3D2CA" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=soooda&show_icons=true&title_color=AAAB6&icon_color=5EAAA8&text_color=A3D2CA&count_private=true&bg_color=0,251F2B,504F65,453546,504F65,251F2B&include_all_commits=true" />
