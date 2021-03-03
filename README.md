@@ -9,7 +9,10 @@
 * 📦 A **content creator** who would like to [experience](https://space.bilibili.com/13696479) every fancy thing in life.
 
 **I am just who I am, nothing more, nothing less......**
-
+<details>
+    <summary>Secrets</summary>
+    <br>
+</details>
 ---
 
 <p align="center">
