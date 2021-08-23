@@ -27,7 +27,7 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 6876 hrs 29 mins
 🎮 Monster Hunter: World            🕘 900 hrs 41 mins
-🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 270 hrs 47 mins
+🍳 PUBG: BATTLEGROUNDS              🕘 270 hrs 47 mins
 🎮 Unturned                         🕘 101 hrs 9 mins
 🎮 Sekiro™: Shadows Die Twice       🕘 86 hrs 38 mins
 ```
