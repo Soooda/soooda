@@ -29,7 +29,7 @@
 🎮 Monster Hunter: World            🕘 900 hrs 41 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 270 hrs 47 mins
 🎮 Unturned                         🕘 101 hrs 9 mins
-🎮 Sekiro™: Shadows Die Twice       🕘 86 hrs 38 mins
+🎮 ELDEN RING                       🕘 87 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
