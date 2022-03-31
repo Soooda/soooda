@@ -29,7 +29,7 @@
 🎮 Monster Hunter: World            🕘 900 hrs 41 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 270 hrs 47 mins
 🎮 Unturned                         🕘 101 hrs 9 mins
-🎮 ELDEN RING                       🕘 91 hrs 37 mins
+🎮 ELDEN RING                       🕘 93 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
