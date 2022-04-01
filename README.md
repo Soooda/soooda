@@ -28,8 +28,8 @@
 🔫 Counter-Strike: Global Offensive 🕘 7499 hrs 57 mins
 🎮 Monster Hunter: World            🕘 900 hrs 41 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 270 hrs 47 mins
+🎮 ELDEN RING                       🕘 101 hrs 27 mins
 🎮 Unturned                         🕘 101 hrs 9 mins
-🎮 ELDEN RING                       🕘 100 hrs 57 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
