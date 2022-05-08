@@ -25,7 +25,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/58342eb205bcd66ddd75f6e49340d604" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 7600 hrs 11 mins
+🔫 Counter-Strike: Global Offensive 🕘 7601 hrs 2 mins
 🎮 Monster Hunter: World            🕘 900 hrs 41 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 270 hrs 47 mins
 🎮 ELDEN RING                       🕘 123 hrs 42 mins
