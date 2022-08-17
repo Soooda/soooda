@@ -27,8 +27,8 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 7800 hrs 40 mins
 🎮 Monster Hunter: World            🕘 900 hrs 41 mins
-🍳 PUBG: BATTLEGROUNDS              🕘 270 hrs 47 mins
-🦾 Cyberpunk 2077                   🕘 131 hrs 9 mins
+🍳 PUBG: BATTLEGROUNDS              🕘 271 hrs 7 mins
+🦾 Cyberpunk 2077                   🕘 132 hrs 3 mins
 🎮 ELDEN RING                       🕘 123 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
