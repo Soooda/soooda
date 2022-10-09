@@ -44,5 +44,5 @@
 </p>
 
 <p align="center">
-      [![HitCount](https://hits.dwyl.com/Soooda/soooda.svg?style=flat-square)](http://hits.dwyl.com/Soooda/soooda)
+      ![HitCount](https://hits.dwyl.com/Soooda/soooda.svg?style=flat-square)](http://hits.dwyl.com/Soooda/soooda)
 </p>
