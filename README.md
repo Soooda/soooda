@@ -44,5 +44,5 @@
 </p>
 
 <p align="center">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=soooda.soooda" alt="vistor badge" />
+      [![HitCount](https://hits.dwyl.com/Soooda/soooda.svg?style=flat-square)](http://hits.dwyl.com/Soooda/soooda)
 </p>
