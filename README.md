@@ -44,5 +44,7 @@
 </p>
 
 <p align="center">
-      ![HitCount](https://hits.dwyl.com/Soooda/soooda.svg?style=flat-square)](http://hits.dwyl.com/Soooda/soooda)
+    <a href="http://hits.dwyl.com/Soooda/soooda">
+        <img src="https://hits.dwyl.com/Soooda/soooda.svg?style=flat-square" alt="HitCount"></img>
+    </a>
 </p>
