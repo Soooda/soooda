@@ -1,7 +1,7 @@
 # o(>.<)o Greetings! 👋
 
 ### I am :
-* 📜 A **computer science student** who is doing Bachelor of Advanced Computing in [The University of Sydney](https://www.sydney.edu.au/).
+* 📜 A **computer science student** who is doing a Master of Artificial Intelligence at [Tokyo Institue of Technology](https://www.titech.ac.jp/english).
 * ⌨️ A **geek** who wanna [suck less](https://suckless.org/) in computing.
 * 🎮 A **gamer** who was semi-pro in [CSGO](https://www.faceit.com/en/players/Sooodaa) and have played tons of games ranging from PS, Nintendo Consoles to Windows PC and look forward to making my own games in the future.
 * 🏃 A **freerunning athlete** who [runs wild](https://www.instagram.com/hilbert_kong/).
@@ -11,7 +11,9 @@
 **I am just who I am, nothing more, nothing less......**
 <details>
     <summary>Secrets</summary>
-    <br>
+        <ul>
+            <li>A <b>Software Development undergraduate</b> who was doing a Bachelor of Advanced Computing at <a href="https://www.sydney.edu.au/">The University of Sydney</a>.</li>
+        </ul>
 </details>
 
 <hr>
