@@ -13,17 +13,8 @@
     <summary>Secrets</summary>
         <ul>
             <li>A <b>Software Development undergraduate</b> who was doing a Bachelor of Advanced Computing at <a href="https://www.sydney.edu.au/">The University of Sydney</a>.</li>
-        </ul>
-</details>
-
-<hr>
-
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soooda&layout=compact&theme=dracula"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=soooda&show_icons=true&count_private=true&include_all_commits=true&line_height=20&theme=dracula"/>
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=soooda&theme=dracula"/>
-</p>
-
+         </ul>
+    
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/58342eb205bcd66ddd75f6e49340d604" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
@@ -35,6 +26,18 @@
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
+            
+</details>
+
+<hr>
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soooda&layout=compact&theme=dracula"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=soooda&show_icons=true&count_private=true&include_all_commits=true&line_height=20&theme=dracula"/>
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=soooda&theme=dracula"/>
+</p>
+
+
 
 <hr>
 <p align="center">
