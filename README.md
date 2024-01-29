@@ -5,7 +5,7 @@
 * ⌨️ A **geek** who wanna [suck less](https://suckless.org/) in computing.
 * 🎮 A **gamer** who was semi-pro in [CSGO](https://www.faceit.com/en/players/Sooodaa) and have played tons of games ranging from PS, Nintendo Consoles to Windows PC and look forward to making my own games in the future.
 * 🏃 A **freerunning athlete** who [runs wild](https://www.instagram.com/hilbert_kong/).
-* 📷 A **photographer** who has nothing except a single [camera](https://www.eyeem.com/u/hilbertkong) but wanna impress this big big world.
+* 📷 A **photographer** who has nothing except a single [camera](https://www.instagram.com/hilbert_photo/) but wanna impress this big big world.
 * 📦 A **content creator** who would like to [experience](https://space.bilibili.com/13696479) every fancy thing in life.
 
 **I am just who I am, nothing more, nothing less......**
