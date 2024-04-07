@@ -1,7 +1,7 @@
 # o(>.<)o Greetings! 👋
 
 ### I am :
-* 📜 A **computer science student** who is doing a Master of Artificial Intelligence at [Tokyo Institue of Technology](https://www.titech.ac.jp/english).
+* 📜 A **Computer Science student** who is doing a Master of Artificial Intelligence at [Tokyo Institue of Technology](https://www.titech.ac.jp/english).
 * ⌨️ A **geek** who wanna [suck less](https://suckless.org/) in computing.
 * 🎮 A **gamer** who was semi-pro in [CSGO](https://www.faceit.com/en/players/Sooodaa) and have played tons of games ranging from PS, Nintendo Consoles to Windows PC and look forward to making my own games in the future.
 * 🏃 A **freerunning athlete** who [runs wild](https://www.instagram.com/hilbert_kong/).
