@@ -43,7 +43,7 @@
 <p align="center">
     <i>If you are good, you'll tell everyone.<br><b>If you are great, they'll tell you.</b></i>
     <p align="center">
-        <a href= "https://www.linkedin.com/in/hilbert-kong-31b276165/"><img src="https://img.icons8.com/nolan/32/linkedin.png"/></a>
+        <a href= "https://www.linkedin.com/in/liang-kong-31b276165/"><img src="https://img.icons8.com/nolan/32/linkedin.png"/></a>
         <a href= "https://hilbertkong.me"><img src="https://img.icons8.com/nolan/32/chrome.png"/></a>
     </p>
 </p>
