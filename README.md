@@ -47,9 +47,3 @@
         <a href= "https://hilbertkong.me"><img src="https://img.icons8.com/nolan/32/chrome.png"/></a>
     </p>
 </p>
-
-<p align="center">
-    <a href="http://hits.dwyl.com/Soooda/soooda">
-        <img src="https://hits.dwyl.com/Soooda/soooda.svg?style=flat-square" alt="HitCount"></img>
-    </a>
-</p>
