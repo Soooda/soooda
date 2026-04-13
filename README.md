@@ -32,8 +32,8 @@
 <hr>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soooda&layout=compact&theme=dracula"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=soooda&show_icons=true&count_private=true&include_all_commits=true&line_height=20&theme=dracula"/>
+    <img align="center" src="./profile/top-langs.svg"/>
+    <img align="center" src="./profile/stats.svg"/>
     <img align="center" src="https://streak-stats.demolab.com/?user=soooda&theme=dracula"/>
     <img align="center" src="https://trophy.benkou.dev/?username=soooda&theme=dracula&margin-w=15&margin-h=15&column=5"/>
 </p>
