@@ -6,12 +6,12 @@ on:
   pull_request:
     branches: [master]
   schedule:
-    - cron: "10 * * * *"
+    - cron: "10 3 * * *"
 
 jobs:
   build:
     name: Update-steam-playtime
-    runs-on: Ubuntu-20.04
+    runs-on: ubuntu-latest
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
       GIST_ID: 58342eb205bcd66ddd75f6e49340d604
@@ -22,13 +22,13 @@ jobs:
 
     steps:
       - name: Set up Go 1.x
-        uses: actions/setup-go@v2
+        uses: actions/setup-go@v5
         with:
           go-version: ^1.14
         id: go
       - name: Check out repo
-        uses: actions/checkout@v2
-      - uses: actions/setup-go@v2
+        uses: actions/checkout@v6
+      - uses: actions/setup-go@v5
       - name: Clone and run steam-box
         run: |-
           git clone https://github.com/YouEclipse/steam-box.git 
