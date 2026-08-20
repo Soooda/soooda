@@ -18,11 +18,11 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/58342eb205bcd66ddd75f6e49340d604" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Counter-Strike 2                 🕘 8528 hrs 12 mins
-🎮 Monster Hunter: World            🕘 900 hrs 41 mins
-🍳 PUBG: BATTLEGROUNDS              🕘 276 hrs 7 mins
-🦾 Cyberpunk 2077                   🕘 132 hrs 3 mins
-🎮 ELDEN RING                       🕘 123 hrs 42 mins
+🔫 Counter-Strike 2                 🕘 9123 hrs 6 mins
+🎮 Monster Hunter: World            🕘 900 hrs 59 mins
+🍳 PUBG: BATTLEGROUNDS              🕘 473 hrs 32 mins
+🎮 MONSTER HUNTER RISE              🕘 155 hrs 4 mins
+🎮 BattleBit Remastered Playtest    🕘 133 hrs 50 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
