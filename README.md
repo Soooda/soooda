@@ -18,7 +18,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/58342eb205bcd66ddd75f6e49340d604" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Counter-Strike 2                 🕘 9123 hrs 6 mins
+🔫 Counter-Strike 2                 🕘 9124 hrs 53 mins
 🎮 Monster Hunter: World            🕘 900 hrs 59 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 473 hrs 32 mins
 🎮 MONSTER HUNTER RISE              🕘 155 hrs 4 mins
