@@ -21,7 +21,7 @@
 🔫 Counter-Strike 2                 🕘 9169 hrs 0 mins
 🎮 Monster Hunter: World            🕘 900 hrs 59 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 473 hrs 32 mins
-🎮 MONSTER HUNTER RISE              🕘 156 hrs 22 mins
+🎮 MONSTER HUNTER RISE              🕘 157 hrs 56 mins
 🎮 BattleBit Remastered Playtest    🕘 133 hrs 50 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
